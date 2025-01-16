@@ -1,2 +1,0 @@
-# Oligonucleotide_Selective_Detection_by_Levitated_Optomechanics
-Oligonucleotide Selective Detection by Levitated Optomechanics
