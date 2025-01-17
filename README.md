@@ -34,7 +34,7 @@ These oligonucleotides were ordered from [Integrated DNA Technologies](https://e
 - `pip install numpy==1.24.4`
 - `pip install optoanalysis==4.3.2`
 - `pip install pandas==2.0.3`
-- `pip install RTxReadBin==1.0`
+- `pip install RTxReadBin-1.0-py3-none-any.whl` Note, this `.whl` file is available in this repository.
 - `pip install scikit-image==0.21.0`
 - `pip install scikit-learn==1.3.2`
 - `pip install scipy==1.10.1`
