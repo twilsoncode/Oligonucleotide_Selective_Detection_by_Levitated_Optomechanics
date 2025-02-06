@@ -26,6 +26,7 @@ These oligonucleotides were ordered from [Integrated DNA Technologies](https://e
 - [Scipy 1.10.1](https://docs.scipy.org/doc/scipy-1.10.1/)
 - [Seaborn 0.13.2](https://seaborn.pydata.org/installing.html)
 - [Statsmodels 0.14.1](https://www.statsmodels.org/stable/index.html)
+- [Tqdm 4.67.1](https://tqdm.github.io/)
 
 ---
 ### Installation instructions for the packages used that are not included in the standard python library using `pip`
@@ -40,6 +41,7 @@ These oligonucleotides were ordered from [Integrated DNA Technologies](https://e
 - `pip install scipy==1.10.1`
 - `pip install seaborn==0.13.2`
 - `pip install statsmodels==0.14.1`
+- `pip install tqdm==4.67.1`
 
 To check that these packages are installed, use the `pip list` command to see all installed packages and their versions available to be viewed with `pip`.
 
