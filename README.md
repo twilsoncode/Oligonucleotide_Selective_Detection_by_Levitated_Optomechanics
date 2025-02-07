@@ -46,3 +46,7 @@ These oligonucleotides were ordered from [Integrated DNA Technologies](https://e
 To check that these packages are installed, use the `pip list` command to see all installed packages and their versions available to be viewed with `pip`.
 
 ---
+### Data Analysis
+The code used to generate the majority of figures in this work has been provided as a Jupyter Notebook file `data_analysis.ipynb` or as a HTML file `data_analysis.html`.
+
+---
